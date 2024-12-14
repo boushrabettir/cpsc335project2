@@ -1,0 +1,2 @@
+# Grid Size | Exhaustive Search Time (microseconds) | Dynamic Programming Time (microseconds)
+5 9 0
